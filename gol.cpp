@@ -1,7 +1,3 @@
-/*
-Name: John Stephenson
-*/
-
 #include <cstdlib>
 #include <cstdio>
 #include <iostream>
